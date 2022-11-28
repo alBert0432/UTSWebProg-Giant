@@ -30,45 +30,6 @@ $query = $connect->query('SELECT * FROM publishers');
             <?php
                 }
             ?>
-            {{-- <div class="col">
-                <div class="card">
-                    <img src="../gramediapustakautama.png" class="card-img-top" alt="Sebuah_Seni_Untuk_Bersikap">
-                    <div class="card-body">
-                        <h5 class="card-title">Gramedia Pustaka Utama</h5>
-                        <p class="card-text">Address : Gedung Kompas Gramedia Blok 1 lt.5
-                            Jl. Palmerah Barat No.29-37
-                            Jakarta 10270
-                            Indonesia<br><br>
-                            <a href="/pustakautamapub">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="../gagasmedia.jpg" class="card-img-top" alt="Psychology of Money">
-                    <div class="card-body">
-                        <h5 class="card-title">Gagas Media</h5>
-                        <p class="card-text">Address : Jl. H. Montong No. 57 Ciganjur
-                            Jagakarsa 12360<br><br>
-                            <a href="/gagasmediapub">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="../elexmedia.png" class="card-img-top" alt="Elex Media Komputindo">
-                    <div class="card-body">
-                        <h5 class="card-title">Elex Media Komputindo</h5>
-                        <p class="card-text">Address : Gedung Kompas-Gramedia I Lantai 2
-                            Jl Palmerah Barat 29 - 33
-                            Jakarta Pusat - 10270<br><br>
-                            <a href="/elexmediapub">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div> --}}
         </div>
     </body>
 @endsection

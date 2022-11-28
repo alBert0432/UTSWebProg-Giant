@@ -32,39 +32,6 @@ $all_book = $connect->query('SELECT * FROM books');
             <?php
                 }
             ?>
-            {{-- <div class="col">
-                <div class="card">
-                    <img src="../pulang-pergi_tere_liye.jpeg" class="card-img-top" alt="Pulang_Pergi">
-                    <div class="card-body">
-                        <h5 class="card-title">Pulang-Pergi</h5>
-                        <p class="card-text">by <br>Tere Liye<br><br>
-                            <a href="/pulangbook">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="../Seni-Untuk-Bersikap-Bodo-Amat_1.png" class="card-img-top" alt="Sebuah_Seni_Untuk_Bersikap">
-                    <div class="card-body">
-                        <h5 class="card-title">Sebuah Seni Untuk Bersikap Bodo Amat</h5>
-                        <p class="card-text">by <br>Mark Manson<br><br>
-                            <a href="/amatbook">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="../youdoyou.jpg" class="card-img-top" alt="You_Do_You">
-                    <div class="card-body">
-                        <h5 class="card-title">You Do You</h5>
-                        <p class="card-text">by <br>Fellexandro Ruby<br><br>
-                            <a href="/youbook">Detail</a>
-                        </p>
-                    </div>
-                </div>
-            </div> --}}
         </div>
     </body>
 @endsection

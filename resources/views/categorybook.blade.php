@@ -3,7 +3,7 @@
 @section('container')
 
     <body>
-        <h3>Mystery</h3>
+        <h3>{{ $row[0]->cat_name }}</h3>
         <div class="row row-cols-1 row-cols-md-4 g-4">
             <?php
                 foreach($row as $key=>$val){
